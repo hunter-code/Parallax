@@ -80,21 +80,21 @@ section.module.parallax:after {
 }
 
 section.module.parallax-1{
-    background-image: url("images/Screenshot_01.jpg")
+    background-image: url("/src/images/Screenshot_01.jpg")
 
 }
 
 section.module.parallax-2{
-    background-image: url(images/Screenshot_02.jpg);
+    background-image: url(/src/images/Screenshot_02.jpg);
 }
 
 section.module.parallax-3{
-    background-image: url(images/Screenshot_03.jpg);
+    background-image: url(/src/images/Screenshot_03.jpg);
 /*Parei no minutuo 17 e segundo 36 do vídeo crisar site com efeito parallax*/
 }
 
 section.module.parallax-4{
-    background-image: url(images/Screenshot_04.jpg);
+    background-image: url(/src/images/Screenshot_04.jpg);
 
 }
 
