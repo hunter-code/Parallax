@@ -80,7 +80,7 @@ section.module.parallax:after {
 }
 
 section.module.parallax-1{
-    background-image: url("/src/images/Screenshot_01.jpg")
+    background-image: url(/src/images/Screenshot_01.jpg);
 
 }
 
@@ -90,7 +90,7 @@ section.module.parallax-2{
 
 section.module.parallax-3{
     background-image: url(/src/images/Screenshot_03.jpg);
-/*Parei no minutuo 17 e segundo 36 do vídeo crisar site com efeito parallax*/
+
 }
 
 section.module.parallax-4{
