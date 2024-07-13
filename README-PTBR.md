@@ -4,14 +4,13 @@ Este repositório contém um site com o efeito parallax e que demonstra as fotos
 <img src="src/images/Screenshot_01.jpg" alt="Cidade luminosa"/>
 ## 🚀 Começando
 <ol>
-<li> Vá até a aba [Code] deste repositório e copie o link; </li>
-<li> Em seu terminal digite o comandot git clone;</li>
+<li> Vá até a aba [Code] deste repositório e copie o link do mesmo; </li>
+<li> Em seu terminal digite o comando git clone;</li>
 <li> Cole o link copiado no repositório;</li>
-<li> Pressions a tecla [Enter];
+<li> Pressione a tecla [Enter];
 Obs: Certifique-se de estar no diretório que deseja instalar o projeto;</li>
 <li>Ao finalizar a cópia do projeto acesse index.html;</li>
 </ol>
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
@@ -33,7 +32,7 @@ Como isntalar o navegardor Chrome:
  <li>Importar seus favoritos do navegador antigo.</li>
 <li>Criar perfis para contas pessoais e de trabalho.</li> 
 </ol>
-Após o download em sua máquina os passos anteriores são o suficiente para que possamos acessar o Chrome de maneira confortável.
+Após o download em sua máquina os passos anteriores são o suficiente, para que possamos acessar o Chrome de maneira confortável.
 
 ## 📦 Implantação
 
@@ -52,7 +51,7 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 ## ✒️ Autores
 
-Eu Alberdam Santiago dei inicio ao projeto e tabém a conclusão
+Eu Alberdam Santiago dei início ao projeto, e tabém a conclusão.
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [Alberdam Santiago]
 
@@ -63,10 +62,9 @@ Este projeto está sob a licença (Alberdam Santiago) - veja o arquivo [LICENSE.
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
+* Convide alguém da equipe para um refrigeirante 🥤;
+* Um agradecimento publicamente 🧑‍🎤;
 
 
 ---
-Codificado com amor por [Alberdam Santiago](https://github.com/hunter-code 😊)
+Codificado com amor por [Alberdam Santiago](https://github.com/hunter-code 😊).
