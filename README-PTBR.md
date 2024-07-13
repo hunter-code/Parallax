@@ -4,12 +4,12 @@ Este repositório contém um site com o efeito parallax e que demonstra as foos 
 
 ## 🚀 Começando
 <ol>
-<li>1 - Vá até a aba [Code] deste repositório e copie o link do </li>;
-<li>2 - Em seu terminal digite o comandot git clone;</li>
-<li>3 - Cole o link copiado no repositório;</li>
-<li>4 - Pressions a tecla [Enter];
+<li> Vá até a aba [Code] deste repositório e copie o link do; </li>
+<li> Em seu terminal digite o comandot git clone;</li>
+<li> Cole o link copiado no repositório;</li>
+<li> Pressions a tecla [Enter];
 Obs: Certifique-se de estar no diretório que deseja instalar o projeto;</li>
-<li>5 - Ao finalizar a cópia do projeto acesse index.html;</li>
+<li>Ao finalizar a cópia do projeto acesse index.html;</li>
 </ol>
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
@@ -24,15 +24,15 @@ Chrome , Fire Fox,Edge , Safari , Opera etc.
 Não tem um navegardor instalado ? Siga essas dicas. Daremos o passo a passo da instalação do navegador Chrome, caso deseje outro navegador como alguns dos citados anteriormente, não se preocupe, os passos que seguirá para instala-los serão semelhantes.
 
 Como isntalar o navegardor Chrome:
-
-1- Fazer login no navegador Chrome.
-2- Definir o Chrome como o navegador padrão.
-3- Definir a página inicial.
-4- Definir a página de inicialização.
-5- Definir um local de download padrão.
-6- Importar seus favoritos do navegador antigo.
-7- Criar perfis para contas pessoais e de trabalho. 
-
+<ol>
+<li>Fazer login no navegador Chrome.</li>
+<li>Definir o Chrome como o navegador padrão.</li>
+<li>Definir a página inicial.</li>
+ <li>Definir a página de inicialização.</li>
+<li>Definir um local de download padrão.</li>
+ <li>Importar seus favoritos do navegador antigo.</li>
+<li>Criar perfis para contas pessoais e de trabalho.</li> 
+</ol>
 Após o download em sua máquina os passos anteriores são o suficiente para que possamos acessar o Chrome de maneira confortável.
 
 ## 📦 Implantação
