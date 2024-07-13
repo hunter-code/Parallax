@@ -1,10 +1,10 @@
 # Parallax
 
-Este repositório contém um site com o efeito parallax e que demonstra as foos de fundo sendo apresentadas à medida que o usuário rola a página de cima para baixo e vice versa.
+Este repositório contém um site com o efeito parallax e que demonstra as fotos de fundo sendo apresentadas à medida que o usuário rola a página de cima para baixo e vice versa.
 <img src="src/images/Screenshot_01.jpg" alt="Cidade luminosa"/>
 ## 🚀 Começando
 <ol>
-<li> Vá até a aba [Code] deste repositório e copie o link do; </li>
+<li> Vá até a aba [Code] deste repositório e copie o link; </li>
 <li> Em seu terminal digite o comandot git clone;</li>
 <li> Cole o link copiado no repositório;</li>
 <li> Pressions a tecla [Enter];
