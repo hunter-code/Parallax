@@ -3,14 +3,14 @@
 Este repositório contém um site com o efeito parallax e que demonstra as foos de fundo sendo apresentadas à medida que o usuário rola a página de cima para baixo e vice versa.
 
 ## 🚀 Começando
-
-1 - Vá até a aba [Code] deste repositório e copie o link do mesmo;
-2 - Em seu terminal digite o comandot git clone;
-3 - Cole o link copiado no repositório;
-4 - Pressions a tecla [Enter];
-Obs: Certifique-se de estar no diretório que deseja instalar o projeto;
-5 - Ao finalizar a cópia do projeto acesse index.html;
-
+<ol>
+<li>1 - Vá até a aba [Code] deste repositório e copie o link do </li>;
+<li>2 - Em seu terminal digite o comandot git clone;</li>
+<li>3 - Cole o link copiado no repositório;</li>
+<li>4 - Pressions a tecla [Enter];
+Obs: Certifique-se de estar no diretório que deseja instalar o projeto;</li>
+<li>5 - Ao finalizar a cópia do projeto acesse index.html;</li>
+</ol>
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
